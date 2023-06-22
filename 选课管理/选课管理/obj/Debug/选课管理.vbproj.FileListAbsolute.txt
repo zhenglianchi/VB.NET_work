@@ -1,0 +1,12 @@
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\bin\Debug\选课管理.exe
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\bin\Debug\选课管理.pdb
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\bin\Debug\选课管理.xml
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.vbprojAssemblyReference.cache
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.LoginForm.resources
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.MainForm.resources
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.Resources.resources
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.vbproj.GenerateResource.cache
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.vbproj.CoreCompileInputs.cache
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.exe
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.xml
+C:\Users\zhenglianchi\Desktop\选课管理\选课管理\obj\Debug\选课管理.pdb
